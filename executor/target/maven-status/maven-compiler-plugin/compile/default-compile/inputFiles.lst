@@ -1,0 +1,8 @@
+/home/simon/School/diplomka/taskmanager2/executor/src/main/java/sk/tuke/fei/executor/service/Service.java
+/home/simon/School/diplomka/taskmanager2/executor/src/main/java/sk/tuke/fei/executor/executor/JniExecutor.java
+/home/simon/School/diplomka/taskmanager2/executor/src/main/java/sk/tuke/fei/executor/manager/NetworkManager.java
+/home/simon/School/diplomka/taskmanager2/executor/src/main/java/sk/tuke/fei/executor/controller/Api.java
+/home/simon/School/diplomka/taskmanager2/executor/src/main/java/sk/tuke/fei/executor/executor/Executor.java
+/home/simon/School/diplomka/taskmanager2/executor/src/main/java/sk/tuke/fei/executor/manager/UserManager.java
+/home/simon/School/diplomka/taskmanager2/executor/src/main/java/sk/tuke/fei/executor/factory/ExecutorFactory.java
+/home/simon/School/diplomka/taskmanager2/executor/src/main/java/sk/tuke/fei/executor/executor/BashExecutor.java

@@ -1,0 +1,8 @@
+sk/tuke/fei/executor/manager/UserManager.class
+sk/tuke/fei/executor/controller/Api.class
+sk/tuke/fei/executor/executor/JniExecutor.class
+sk/tuke/fei/executor/executor/Executor.class
+sk/tuke/fei/executor/executor/BashExecutor.class
+sk/tuke/fei/executor/service/Service.class
+sk/tuke/fei/executor/factory/ExecutorFactory.class
+sk/tuke/fei/executor/manager/NetworkManager.class
